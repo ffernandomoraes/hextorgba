@@ -1,5 +1,2 @@
-# dateLove
-Calcule quanto tempo você namora, é casado ou sei lá.
-
-##### from: dev 
-##### to: namoradas malucas
+# Hexadecimal to RGB ou RGBA
+Coloque o código hexadecimal para converter para RGB ou RGBA.
